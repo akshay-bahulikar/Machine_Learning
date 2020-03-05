@@ -68,7 +68,6 @@ def KNeighbor():
 def main():
     accuracy=KNeighbor()
     print("Accuracy of classification algorithm with K Neighbor classifier is ",accuracy*100,"%")
-    print("hi")
 
 if __name__=="__main__":
     main()
